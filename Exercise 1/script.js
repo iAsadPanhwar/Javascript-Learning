@@ -1,7 +1,8 @@
 let random = Math.random
 let a = prompt("Enter first Numer")
-let b = prompt("Enter Second Numer")
 let c = prompt("Enter Operation Numer")
+let b = prompt("Enter Second Numer")
+
 
 let obj = {
     "+": "-",
